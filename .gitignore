@@ -1,0 +1,5 @@
+__pycache__
+.venv
+/_*
+python-project/*.egg-info
+python-project/.coverage
