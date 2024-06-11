@@ -18,6 +18,7 @@
         #pytesseract
         #tesserocr
         python-lsp-server
+        tomlkit
       ];
 
       propagatedBuildInputs = with python311.pkgs; [
